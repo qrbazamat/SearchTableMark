@@ -1,0 +1,56 @@
+[
+    {
+        "category": "Sporting Goods",
+        "price": "$49.99",
+        "stocked": true,
+        "name": "Football"
+    },
+    {
+        "category": "Sporting Goods",
+        "price": "$9.99",
+        "stocked": true,
+        "name": "Baseball"
+    },
+    {
+        "category": "Sporting Goods",
+        "price": "$29.99",
+        "stocked": false,
+        "name": "Basketball"
+    },
+    {
+        "category": "Electronics",
+        "price": "$49.99",
+        "stocked": true,
+        "name": "iPod Touch"
+    },
+    {
+        "category": "Movie",
+        "price": "$200049.99",
+        "stocked": true,
+        "name": "Black Widow"
+    },
+    {
+        "category": "Electronics",
+        "price": "$1999.99",
+        "stocked": false,
+        "name": "iPhone 13"
+    },
+    {
+        "category": "Movie",
+        "price": "$1200499.99",
+        "stocked": false,
+        "name": "Marvel Eternals"
+    },
+    {
+        "category": "Electronics",
+        "price": "$1499.99",
+        "stocked": true,
+        "name": "Galaxy S21 Ultra"
+    },
+    {
+        "category": "Movie",
+        "price": "$1000099.99",
+        "stocked": true,
+        "name": "Avengers 4"
+    }
+]
